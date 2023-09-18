@@ -20,5 +20,13 @@
   <a href = "mailto:vinicius14082004@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="www.linkedin.com/in/vinícius-rodrigues-da-silva-b449b224a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
-  ![github contribution grid snake animation](https://raw.githubusercontent.com/ViniRsilva/ViniRsilva/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/ViniRsilva/ViniRsilva/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+<p><img align="center" alt="snake eating my contributions" src="https://raw.githubusercontent.com/ViniRsilva/ViniRsilva/output/github-contribution-grid-snake-dark.svg" width="1000" />
+
+<!--
+<p><img align="center" alt="snake eating my contributions" src="https://raw.githubusercontent.com/ViniRsilva/ViniRsilva/output/github-contribution-grid-snake.svg" width="1000" />
+
+![snake gif](https://github.com/ViniRsilva/ViniRsilva/blob/output/github-contribution-grid-snake.gif)
+
+<p><img align="center" src="https://github.com/elisalvsan/elisalvsan/blob/output/github-contribution-grid-snake.svg" width="1000" />
+-->
 </div>
