@@ -1,6 +1,6 @@
 ### Wellcome!!!
 
-- 👨‍💻 Estudante de Engenharia de computação/pucrs.
+- 👨‍💻 Estudante de Engenharia de software/pucrs.
 - 📟 Técnico em Mecatrônica/Ifsul
 
 <div>
