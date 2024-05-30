@@ -1,5 +1,5 @@
 
-<h1 align="center"> [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2500&pause=1000&color=31D6D7&vCenter=true&width=600&lines=Hello%2C+I'm+Vinicius+Silva+👋;Software+Developer)](https://git.io/typing-svg)</h1>
+<h1 align="center"> Hello, I'm Vinícius Silva!👋</h1>
 
 <p align="center">- 📟 Graduate Mechatronics Technician at IFSul Charqueadas in 2022.</p> 
 <p align="center">- 👨‍💻 Student of Software Engineer at PUCRS.</p>
