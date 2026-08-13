@@ -2,7 +2,7 @@
 
 <p align="left">
 
-  Desenvolvedor <strong>Full Stack</strong> com foco em <strong>JavaScript, TypeScript e Node.js</strong>, atuando no desenvolvimento de aplicações completas, APIs, microsserviços e aplicativos mobile. <br>
+  Desenvolvedor <strong>Full Stack</strong> com foco em <strong>JavaScript, TypeScript e Node.js</strong>, atuando no desenvolvimento de aplicações completas, APIs, microsserviços e aplicativos mobile.<br>
 
   Gosto de transformar problemas complexos em soluções simples e bem estruturadas, sempre buscando evoluir em arquitetura, performance e experiência do usuário.
 
